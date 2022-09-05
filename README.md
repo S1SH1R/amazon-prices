@@ -1,1 +1,1 @@
-# amazon-prices
+This is a small project I decided to create because I realise that a lot of people, especially my friends and family, look through amazon a lot almost every day and different items to check if the prices have been updated. So i made an extremely simple python script which I will package into an executable so the user doesnt require an IDE
