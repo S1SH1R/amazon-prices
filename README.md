@@ -1,1 +1,1 @@
-# amazon-pruces
+# amazon-prices
